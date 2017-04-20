@@ -1,0 +1,42 @@
+
+.box{
+  width: 220px;
+  height: 270px;
+  box-shadow:8px 10px 14px -8px #CECECE;
+  float: left;
+  text-align: center;
+  background-color: #F4F1F1;
+  padding-top: 30px;
+  margin: 5px;
+  -webkit-transition: all 1s ease;
+  -moz-transition: all 1s ease;
+  -o-transition: all 1s ease;
+  transition: all 1s ease;
+  color: #777777;
+  font-family: 'Raleway', sans-serif ;
+  font-size: 14px;
+}
+
+
+.box:hover {
+  font-family: 'Merriweather', serif;
+  padding-top: 20px;
+  background-color: #fff;
+  -webkit-transfomr:scale(1.1);
+  -webkit-transition:all .0.5s ease-in-put;
+}
+.uno:hover{
+    color:#7AA2F4 ;
+}
+.dos:hover{
+  color: #C31700;
+}
+.tres:hover{
+  color: #ef0909;
+}
+.cuatro:hover{
+  color: #6E3F21;
+}
+.cinco:hover{
+  color: #D38E03;
+}
